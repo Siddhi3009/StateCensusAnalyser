@@ -13,7 +13,7 @@ namespace CensusAnalyserTest
         static string indianStateCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCensusData.csv";
         static string wrongHeaderIndianCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\WrongIndiaStateCensusData.csv";
         static string delimiterIndianCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\DelimiterIndiaStateCensusData.csv";
-        static string wrongIndianStateCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\WrongIndiaStateCensusDat.csv";
+        static string wrongIndianStateCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\WrongIndiaStateCensus.csv";
         static string wrongIndianStateCensusFileType = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCensusData.txt";
         static string indianStateCodeFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCode.csv";
         static string wrongIndianStateCodeFileType = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCode.txt";
