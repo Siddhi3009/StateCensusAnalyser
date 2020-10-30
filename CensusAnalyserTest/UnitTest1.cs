@@ -7,7 +7,6 @@ namespace CensusAnalyserTest
 {
     public class Tests
     {
-        //CensusAnalyser.CensusAnalyser censusAnalyser;
         static string indianStateCensusHeaders = "State,Population,AreaInSqKm,DensityPerSqKm";
         static string indianStateCodeHeaders = "SrNo,State Name,TIN,StateCode";
         static string indianStateCensusFilePath = @"C:\Users\Administrator\Desktop\BridgeLabz Practice\35. IndiaStateCensusAnalyser\StateCensusAnalyser\CensusAnalyserTest\CsvFiles\IndiaStateCensusData.csv";
